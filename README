@@ -2,3 +2,7 @@
 This project uses an ssh connection and was built in a VNC Viewer desktop. 
 When the decibel sensor detects a rise in levels, it blinks the 8 lights. 
 When the sensor is placed near music the lights "dance" with the beat.
+Addtionally, we added an option to read the battery voltage.
+sys.argv's
+'Dance' = run the lights
+'Volts' = display the battery voltage
